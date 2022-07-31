@@ -1,0 +1,146 @@
+/*!
+Template :	ICOCrypto @by Softnio
+Theme	 :  Default
+Version	 :	1.9.2
+Updated	 :	01.15.2020
+*/
+
+
+/*! WRITE YOUR CUSTOM STYLE **/
+
+html,
+body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+#contact {
+    padding-top: 0em;
+    padding-bottom: 5em;
+}
+
+#contact2 {
+    padding-top: 0em;
+    padding-bottom: 5em;
+}
+
+.feature-icon .icon {
+    position: relative;
+    font-size: 2.75rem;
+    color: rgb(226, 43, 202);
+    z-index: 5;
+    margin-left: -5px;
+}
+
+.title-dark {
+    color: #ffffff;
+}
+
+.feature-text p:last-child {
+    margin-bottom: 0;
+    color: f1f1f1;
+}
+
+.token-stage-pre {
+    background: #F6FAFD;
+    color: #575757;
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+.bg-theme-dark-alt {
+    background-color: #F6FAFD!important;
+    box-shadow: 0 5px 35px -5px rgba(18, 24, 58, 0.12);
+}
+
+.token-stage-bonus {
+    color: #575757;
+    margin-bottom: 1em;
+}
+
+.token-stage-date h5 {
+    color: #575757;
+}
+
+.btn-grad {
+    border: none;
+    background-image: linear-gradient(to right, #132582 0%, rgb(226, 43, 202) 100%);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+th {
+    background: #474747;
+    color: #fff;
+}
+
+.tab-nav-s4 li a.active {
+    color: #132582 !important;
+    background: #fff;
+}
+
+.bg-theme {
+    background-color: #474747 !important;
+}
+
+.tc-light .input-bordered {
+    color: #fff;
+    background: none;
+    border-color: rgba(255, 255, 255, 0.25);
+}
+
+.tc-light p,
+.tc-light .list {
+    color: #fff;
+}
+
+.tc-light .contact-icon {
+    color: #132582;
+    background: #fff;
+    box-shadow: none;
+}
+
+.tc-light .btn-primary:hover,
+.tc-light .btn-primary:focus {
+    background-color: #132582;
+    border-color: #132582;
+    color: #fff !important;
+}
+
+.is-transparent:not(.has-fixed):not(.is-light) .menu>.menu-item:hover>a {
+    color: #8A2BE2;
+}
+
+.feature-serial {
+    font-size: 100px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(181, 181, 181, 0.2);
+}
+
+rect[Attributes Style] {
+    fill: #fff;
+    x: 0;
+    y: 0;
+    width: 1108;
+    height: 400;
+    rx: 0;
+    ry: 0;
+}
